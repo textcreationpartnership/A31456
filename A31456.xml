@@ -1,0 +1,192 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reflections on a libel, intituled, A plea for the Apothecaries</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1671</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31456</idno>
+            <idno type="STC">Wing C165</idno>
+            <idno type="STC">ESTC R8003</idno>
+            <idno type="EEBO-CITATION">11637908</idno>
+            <idno type="OCLC">ocm 11637908</idno>
+            <idno type="VID">47957</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A31456)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 47957)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 484:47)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reflections on a libel, intituled, A plea for the Apothecaries</title>
+               </titleStmt>
+               <extent>[2], 10 p. ;  20 cm. </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Chiswell,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1671.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A reply to a pamphlet, by Henry Stubbs (Stubbes or Stubbe) issued anonymously, London, 1671, with title: Medice Cura Teipsum!, or The apothecaries plea.</note>
+                  <note>Reproduction of original in Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Stubbe, Henry, 1632-1676. --  Medice cura teipsum.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:47957:1"/>
+            <pb facs="tcp:47957:1"/>
+            <p>REFLECTIONS ON A LIBEL, INTITULED, A Plea for the Apothecaries.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Richard Chiſwell</hi> at the two Angels and Crown in <hi>Little Britain,</hi> 1671.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:47957:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:47957:2"/>
+            <head>Reflections on a Libel, intituled, <hi>A Plea for the Apothecaries.</hi>
+            </head>
+            <p>
+               <hi>
+                  <hi>Reader,</hi> Obſerve that <hi>I. R.</hi> ſignifies the Libeller, <hi>W.C.</hi> the Animadverter, <hi>D. M.</hi> the Perſon writ againſt by the Libeller.</hi>
+            </p>
+            <p>
+               <seg rend="decorInit">A</seg>Fter twelve months conſideration, comes forth this Plea, written by an Apothe<g ref="char:EOLhyphen"/>cary, as appears page 41, 42. and per<g ref="char:EOLhyphen"/>haps the Author of this Paper could from <hi>I. R</hi>'s own Company have named him, and could tell, that though he were not commiſſionated, yet the preſentation thereof was liked by them: But for his gravity I ſhall ſpare the naming him, taking notice only of his matter and fail<g ref="char:EOLhyphen"/>ings.</p>
+            <p>
+               <hi>I. R.</hi> in page 41. 42. endeavours to gain a belief, be<g ref="char:EOLhyphen"/>cauſe (ſaith he) <hi>he was never accounted a Liar:</hi> That he is one, ſhall be firſt proved out of his falſe Quotations; in his Book, Page 8. <hi>He refers you to ſomething lately publiſhed by an intelligent, knowing perſon of the ſame faculty;</hi> but ſince he is aſhamed to name him, 'tis <hi>H. Stubbs,</hi> proved at large by <hi>D. M.</hi> and Mr. <hi>Glanvil,</hi> to be a moſt Impudent and notorious Slanderer and Liar. <hi>I. R.</hi> goes on, and ſaith, <hi>he quotes him totidem verbis,</hi> viz. <hi>If I might take an eſti<g ref="char:EOLhyphen"/>mate of his parts from his writings,</hi> &amp;c. <hi>W.C.</hi> diſparaging maliciouſly all <hi>D. M</hi>'s Books, whereas the words of
+<pb n="2" facs="tcp:47957:3"/> 
+               <hi>H. Stubb's</hi> are, from that writing, <hi>viz.</hi> the View. A ſecond is in page 24, 25. <hi>I.R.</hi> ſaith <hi>that</hi> D.M. <hi>will put in one grain, or two at moſt for an hundred, as was formerly demonſtrated from his own confeſſion.</hi> See <hi>Pag.</hi> 15. <hi>of</hi> I. R's <hi>Book:</hi> where <hi>D. M.</hi> ſpeaks of Bills, and not of Preſcriptions, and thoſe too not of his own Bills (for he makes none) but of the Apothecaries rated Bills. Page 41. <hi>I. R.</hi> affirms, <hi>D. M. would make the world believe, that the Company of Apothe<g ref="char:EOLhyphen"/>caries combined with</hi> H. S. <hi>to aſperſe the Royal Society.</hi> W. C. There's nothing of the Company of Apothecaries, nor of combination in <hi>D.M</hi>'s Book. Page 26. <hi>I. R.</hi> makes <hi>D.M. to call his own medicines inconſiderable:</hi> W.C. Which is abſurdly falſe. Page 33. He falſly pins theſe words on <hi>D.M.</hi> viz. <hi>A Phyſician ought not to make uſe of any chargeable things.</hi> No ſuch words in any of <hi>D.M</hi>'s books, nor doth <hi>I. R.</hi> quote any place where they ſhould be.</p>
+            <p>
+               <hi>W.C.</hi> Lies of another order are p. 9, 10. that <hi>D.M. ſuborn<g ref="char:EOLhyphen"/>ed Dr.</hi> Cox <hi>to write his book againſt the Apothecaries.</hi> p. 1. <hi>That</hi> D. M. <hi>had an intention to invade their Profeſſion (W.C.</hi> 'tis his birth-right, as has been proved) <hi>which he ſaith hath been for many years conſtituted. W. C.</hi> The contrary whereof he acknowledgeth. Page 2. <hi>I.R.</hi> goes on, and <hi>ſaith the whole ſeries of Pharmacy</hi> (underſtand theſe words who can) <hi>by their good Laws hath been improved to as high, and laudable a Pitch, as in any forein Nation, or Republick whatſoever.</hi>
+            </p>
+            <p>
+               <hi>W. C.</hi> Next follow his modeſt lies, wherewith he aſper<g ref="char:EOLhyphen"/>ſeth <hi>D. M.</hi> ſaying, <hi>he is a Criminator, mad or blind, cajoles the Ladies, collogues Surgeons and Nurſes, ſetting the Nurſes cock a hoop, and chuſing them for his Mates; calls him</hi> Sinon, Saul <hi>among the Prophets for quoting St.</hi> Auguſtine; <hi>his Lan<g ref="char:EOLhyphen"/>guage is high, provoking, invective, abuſive; his many aſper<g ref="char:EOLhyphen"/>ſions unjuſtly charged, his former chat, Tale of a Tub, he rants, and chants, and will do ſo</hi> in infinitum, <hi>bauls and chants, Zealot
+<pb n="3" facs="tcp:47957:3"/> for kindling coals, acts contrary to all good manners and inge<g ref="char:EOLhyphen"/>nuity, his nakedneſs and rudeneſs; he hath as many tricks as a dancing Horſe, Hyperbolizeth to ſuch a height, he deceives and deludes; calls him impudent, Mountebank; ſaith he gives little or nothing, or nothing to the purpoſe to his Patients.</hi> Scornfully he ſaith, <hi>the good Doctor, worthy Doctor, Domine Doctor, a learned Phyſician; a pretender to Philoſophy, a great Philoſopher,</hi> &amp;c. <hi>His brave Heroic Roman valour, his humour of vapouring, his imaginary confidence;</hi> with much more to the ſame purpoſe from this modeſt man.</p>
+            <p>
+               <hi>W. C.</hi> Next follows the malice of this Zealot for kindling coals (as he phraſeth it) to <hi>D. M.</hi> in ſeveral places, <hi>Page</hi> 5, 9, 14, 15, 17, 18, 46. to ſet his Collegues and moſt of his own Profeſſion againſt him by childiſh and pitiful deductions. But that all this is falſe, the chooſing by vote of <hi>D. M.</hi> and Dr. <hi>Goddard</hi> Cenſors for this preſent year evi<g ref="char:EOLhyphen"/>dently demonſtrate to all the world, that the College judge they have not aſperſed or injured any of their Faculty.</p>
+            <p>
+               <hi>W.C.</hi> Now I come to the matter of his Plea, wherein he acknowledgeth all the Frauds, and abuſes to Patients, and Phyſicians, complained of in the View, endeavouring only ſillily to evade ſome, as will appear by what followeth: Page 3. (He ſaith) <hi>he will not countenance any of their mem<g ref="char:EOLhyphen"/>bers to take upon them the practice of Phyſick; nor that they ſhould repeat a whole courſe of Phyſick without the directors knowledge.</hi> And p. 36. <hi>That the Apothecary of his own head in any caſe of difficulty or danger</hi> (mark that) <hi>ſhould dare to undertake the cure of the Patient without conſulting the Phyſician; He conceives that the Apothecary doth not therein diſcharge his duty.</hi> But page 40. contrary to what hath been before ſaid, <hi>he reſtrains them</hi> only <hi>from the profeſſed cuſto<g ref="char:EOLhyphen"/>mary practice of Phyſick.</hi> Page 2. <hi>He believes there may be ſome perſons, that uſe medicines quite contrary to the
+<pb n="4" facs="tcp:47957:4"/> Preſcriptions, and falſifie the grand compoſitions of the</hi> Lon<g ref="char:EOLhyphen"/>don <hi>Diſpenſatory.</hi> And Page 12. <hi>That the whole-ſale-men ſell not medicines honeſtly made.</hi> Page 13. <hi>he confeſſeth the ſeventh, eighth, and ninth Criminations.</hi> And page 14. <hi>to the firſt eight he hath nothing to ſay.</hi> Page 27. <hi>Commends</hi> Zwelfer <hi>for reforming Mithridate and Treacle,</hi> which the ſame Author alſo calls abſurd and ridiculous, which words are far higher than [unintelligible and unreaſonable] of <hi>D. M</hi>'s. Page 29. <hi>That 'tis above the Sphere of the Company of Apothecaries to meddle with Medicines, which are beſt, or to make any alteration in Compoſitions.</hi> Page 32. <hi>He ingenuouſly acknowledgeth, that the Apothecaries might better keep their Shops, and do the Patients better ſervice than by their Viſitings.</hi> Page 39. <hi>That Phyſicians may uſe their own Arcanums, or Preparations, and that upon juſt grounds they may turn out the Apothecaries.</hi> Page 40. <hi>He can<g ref="char:EOLhyphen"/>not judge it reaſonable that the Apothecaries ſhould diſcover the Phyſicians Arcanums. W. C.</hi> By this the Reader may eaſily perceive he acknowledgeth all the material things <hi>D.M.</hi> complains of; what he doth not, now followeth page by page. In reply to whom <hi>W. C.</hi> will give you the bare objections and anſwers, leaving out his impertinent<g ref="char:EOLhyphen"/>ly quoted Latine, and farcing in things to no purpoſe to miſlead the unconſidering Reader.</p>
+            <p>Pag. 1. Three falſities have been mentioned in it.</p>
+            <p>Pag. 2. Contains only ill language, and his own unfitneſs to anſwer.</p>
+            <p>Pag. 3, 4. mentions ſome things (he ſaith) he will not intrench on the Phyſicians, and ſuch as <hi>D. M.</hi> complains of.</p>
+            <p>Pag. 5. ſaith <hi>D. M. aſperſeth his own Profeſſion,</hi> beſides ſome words of railing.</p>
+            <p>Pag. 6, 7. he chargeth <hi>D.M. for putting in Pharmacopoeus in
+<pb n="5" facs="tcp:47957:4"/> the old Diſtich, and that it is in larger Characters. W.C.</hi> No<g ref="char:EOLhyphen"/>thing's more ordinary with all Writers than to change words, and fit them for their purpoſe; and therefore <hi>Ju<g ref="char:EOLhyphen"/>daeus,</hi> and <hi>Monachus</hi> are left out, becauſe we have none ſuch in <hi>England</hi> that practiſe Phyſick; beſides <hi>Pharmacopoeus</hi> makes the better Verſe. As for the diſtinction of the Cha<g ref="char:EOLhyphen"/>racter it might be the work of the Compoſer, who uſu<g ref="char:EOLhyphen"/>ally prints in large Characters the Argument of the Book. But why doth <hi>I. R.</hi> miſ-quote and foiſt in <hi>Prophanus</hi> in the Hexameter, which was <hi>Sacerdos</hi> in the Copy?</p>
+            <p>Pag. 7, 8. He miſ-quotes Mr. <hi>Stubbs</hi> (as hath been ſaid) and reviles.</p>
+            <p>Page 9. barely affirms that <hi>D. M.</hi> ſuborned Dr. <hi>Cox</hi> to write his book.</p>
+            <p>Page 10, 11. he borrows of <hi>Lex Talionis</hi> an anſwer to the Apothecaries Axiom, that Apothecaries may be the verieſt knaves, <hi>&amp;c. by ſaying the Doctors that make medi<g ref="char:EOLhyphen"/>cines may be ſo,</hi> the contrary whereto <hi>D.M.</hi> hath proved at large in ſeveral places.</p>
+            <p>Pag. 11, 12, 13. are ſome of his confeſſions before-men<g ref="char:EOLhyphen"/>tioned, only laughs at the ſtory of the Seeds-man, and <hi>D.M</hi>'s man. No ſuch word as [Man] in the text. Every Seeds-man will tell you 'tis their common practice, and is this ridiculous, that they ſhould buy decayed Seeds, and only ſuch which are univerſally the beſt part of the Plant? 'Tis a horrid cheat, and abuſe. Page. 14, <hi>&amp;c.</hi> either con<g ref="char:EOLhyphen"/>feſſeth, or endeavours to make a diviſion betwixt <hi>D.M.</hi> and his Collegues, and is ſtuft with reviling language.</p>
+            <p>Page 15, 16. For the putting in of Bezoar and Pearls to increaſe their Bills, though there be but a grain or two in the receipt. <hi>I. R.</hi> anſwers, <hi>Some of the College, and alſo</hi> Zwelfer <hi>mentions</hi> 100, <hi>or</hi> 120 <hi>grains given at a doſe.</hi> W. C. Much to the purpoſe; <hi>D. M.</hi> chargeth them with over<g ref="char:EOLhyphen"/>rating
+<pb n="6" facs="tcp:47957:5"/> their medicines; <hi>I. R.</hi> anſwers, <hi>Phyſicians give large doſes.</hi>
+            </p>
+            <p>Page 16, 17, 18, 19. Pleads for the dear Bills of the Apo<g ref="char:EOLhyphen"/>thecaries, and in the whole ſaith no more than that con<g ref="char:EOLhyphen"/>ſcionable Bills made with good medicines ought to be paid; which no body denieth.</p>
+            <p>Page 20. Reviles. Confeſſeth, and ſaith that <hi>D. M.</hi> may miſtake as well as the Apothecaries.</p>
+            <p>Page 21. <hi>I. R.</hi> ſaith, <hi>the Company diſown any uncivil de<g ref="char:EOLhyphen"/>portment of Apothecaries to Phyſicians.</hi> W. C. This <hi>I.R.</hi> de<g ref="char:EOLhyphen"/>nies none of the affronts, <hi>&amp;c.</hi> by their particular mem<g ref="char:EOLhyphen"/>bers, nor any of the actings of the whole Company againſt the College publickly. <hi>Ibid.</hi> he ſaith, <hi>D.M. ſtumbles at a ſtraw, and ſaith Patients will call themſelves ſo. W. C. D. M.</hi> hath proved it to be nonſenſe to call the ſick their Patients, and finds no fault with the ſick for calling the Apothecary Doctor, but with the Apothecary for taking that title upon him: but whoſoever ſhall conſider, what influence words have on the Vulgar, will not think it ſtraw. Let but the people be inured to call the Apothecary Doctor, they will ſoon think him a fit and lawful Practitioner, and will make no difference betwixt the ignoranteſt Apothecary and the learnedſt Phyſician: but what an inference is it, to ſay that <hi>D. M.</hi> gives the lie to the ſick, when he only ſpeaks of the arrogance of the Apothecary? <hi>Ibid. I. R.</hi> ſaith, <hi>'tis not the deſire of moſt perſons to take medicines of Phyſicians.</hi> W. C. This I ſuppoſe <hi>D. M.</hi> ſpake as he found it, but I have heard him lately ſay, that eight or nine perſons have been ſeduced from him by the Apothecaries, of which he hath only heard by their deaths; as to underſtanding perſons <hi>I. R. wittily anſwers, ſome men are wiſe, ſome over-wiſe, ſome other-wiſe.</hi>
+            </p>
+            <p>Pag. 22, 23. Whereas <hi>D.M.</hi> ſaith, Phyſicians will avoid the trouble put upon them by the Apothecaries Ignorance.
+<pb n="7" facs="tcp:47957:5"/> 
+               <hi>I.R.</hi> replieth, <hi>that Phyſicians may miſtake their doſes,</hi> and tells a ſtory <hi>of three drachms of</hi> Laudanum <hi>preſcribed for three grains. W. C. D. M.</hi> ſpeaks of the Apothecaries Ignorance, and <hi>I. R.</hi> of the Phyſicians over-doſing; and as for the good Doctor he is already quit of the ignorance and frauds of the Apothecaries, plainly thereby preferring the life of his Patients before his own eaſe or profit.</p>
+            <p>Page 24. <hi>I. R.</hi> Fooliſhly infers with <hi>Lex Talionis, that</hi> D.M. <hi>judgeth none of the Apothecaries honeſt;</hi> the contrary whereof is manifeſt in two places of his View.</p>
+            <p>Page 25. Recriminates, ſaith <hi>D. M. imployeth ſome novice to make his medicines, while he is taking his recreations, and indulging his genius.</hi> W. C. This is falſe, the Doctor im<g ref="char:EOLhyphen"/>ployeth a man who hath a Superviſor beſides himſelf, who can do any thing better than the Apothecaries boys, and doubtleſs than any of the Maſters; and how much <hi>D. M.</hi> indulgeth his genius in recreations, all that know him can ſay, as little as any man. <hi>Ib.</hi> and 26. <hi>D. M.</hi> by Pa<g ref="char:EOLhyphen"/>tients taking Medicines of Phyſicians, moſt of the great charges of Apothecaries Bills will be ſaved. <hi>I. R.</hi> asks <hi>how this will hold water,</hi> and then recites out of <hi>D. M.</hi> how it may be done. <hi>W. C.</hi> This needs no other anſwer, than that 'tis done <hi>de facto,</hi> and to be ſure if he had done any thing but what he profeſſeth, this Libeller would have branded him for it. 'Tis ſtrange that <hi>I. R.</hi> ſhould ſo miſ<g ref="char:EOLhyphen"/>cenſure Medicines he hath never ſeen, who doth in his own Paper acknowledge his unfitneſs to judge of Medicines.</p>
+            <p>Page 27, 28, 29. Tells the Reader what eſteem ſome have had of Mithridate and Treacle. <hi>W.C.</hi> See his confeſſi<g ref="char:EOLhyphen"/>ons before.</p>
+            <p>Page 30. Whereas <hi>D. M.</hi> tells Phyſicians they will im<g ref="char:EOLhyphen"/>prove their knowledge; <hi>I.R.</hi> replieth <hi>high Language. Admi<g ref="char:EOLhyphen"/>randa canit, ſure the Doctor hath got the Philoſophers ſtone,</hi> &amp;c.
+<pb n="8" facs="tcp:47957:6"/> 
+               <hi>Ibid.</hi> whereas <hi>D. M.</hi> ſaith, when Diſpenſatories were firſt made, Apothecaries were Phyſicians ſervants. <hi>I. R.</hi> infers, Ergo <hi>the Doctor intitles himſelf Maſter.</hi>
+            </p>
+            <p>Page 31. <hi>W. C. D. M.</hi> ſaith by this means Phyſicians honour will be doubled. <hi>I. R.</hi> replieth, <hi>Honeſty is the greateſt honour maugre what</hi> D. M. <hi>would infer to the contrary.</hi>
+            </p>
+            <p>Page 32, 33. Contains his good language, confeſſions, his childiſh anſwering to the great charges Phyſicians are put to before they come into practice, and asks, <hi>Whether thoſe great ſums came out of the clouds. W. C.</hi> This cannot be better anſwered than by <hi>I. R</hi>'s way, a Proverb, <hi>viz. His Father was born before him.</hi>
+            </p>
+            <p>Pag. 34. Accuſeth <hi>D.M. for leaving</hi> London <hi>in the Plague time,</hi> and tells the Ladies <hi>how their Grandmother</hi> Eve <hi>was Cozened by the Devil;</hi> and then page 35. ſaith, <hi>'tis abſolute<g ref="char:EOLhyphen"/>ly impoſſible for a Phyſician to prepare his Medicines in the time propoſed by D. M. W. C.</hi> 'Tis true, 'tis ſo for an Apo<g ref="char:EOLhyphen"/>thecary that is to diſpenſe for ſeveral Phyſicians, and alſo long and tedious diſpenſations: but the Doctors meaning by preparing is no otherwiſe than to ſee them well done; and 'tis no more than when the Apothecaries ſay, I have prepared my Medicines, though the thing be actually done by his Servants; and this pitiful Scribler makes no diffe<g ref="char:EOLhyphen"/>rence between diſpenſing of Medicines, and curing of Pa<g ref="char:EOLhyphen"/>tients.</p>
+            <p>Page 35, 36. Suppoſeth Phyſicians to be the firſt aggreſ<g ref="char:EOLhyphen"/>ſors, the contrary whereof hath been proved at large.</p>
+            <p>Page 36, 37, 38, 39, 40. Confeſſeth things to be true they are accuſed for.</p>
+            <p>Page 41, 42. Endeavours with a ſtrong aſſeveration to vindicate the <hi>Company from any combination with</hi> H. S. <hi>againſt the Royal Society,</hi> which no body hath accuſed them of, as hath been beforeſaid.</p>
+            <pb n="9" facs="tcp:47957:6"/>
+            <p>Page 42, 43, 44 I. R. comments on <hi>Ambubaiarum collogia,</hi> ſaying, <hi>'tis a hard word to poſe a man that is not book-learned, as the Doctor ſaith he is able to do. W. C.</hi> He ſhould have ad<g ref="char:EOLhyphen"/>ded in their own trade. <hi>Ibid.</hi> I.R. ſaith <hi>the murthering Apo<g ref="char:EOLhyphen"/>thecary in</hi> Cicero <hi>was no ſhop-Apothecary.</hi> W.C. <hi>D.M.</hi> doth not ſay he was, and with good reaſon, for there were none ſuch then. And leſt <hi>H.S.</hi> ſhould ſuppoſe <hi>W. C.</hi> to be a Vir<g ref="char:EOLhyphen"/>tuoſo, and ſo laſh him for not taking notice of a Criti<g ref="char:EOLhyphen"/>ciſm; obſerve how <hi>I. R.</hi> conſtrues the word <hi>Circumforare,</hi> which according to the true Etymology, may better be conſtrued to make a Pillory for Libellers necks, then as this man of Latine (to no purpoſe) expounds it, <hi>viz.</hi> To go from one Market Town to another.</p>
+            <p>Page 45, 46. Recriminates <hi>D. M.</hi> for ſaying an Apothe<g ref="char:EOLhyphen"/>cary practiſed ill without putting the caſe (ridiculouſly) and infers, <hi>That he hath therein aſperſed the honourable College;</hi> ſaying, <hi>They have more candor and ingenuity in them, than to aſſume any ſuch unlimited power, which no Law doth, or can allow;</hi> and then proves out of <hi>Job</hi> that a Phyſician ought not to find fault with Apothecaries, and that becauſe the <hi>Apothecaries are Gods creatures.</hi>
+            </p>
+            <p>Page 47, 48. contains little but railing; and 45. ſaith, <hi>that Dr.</hi> Maranta <hi>and</hi> Schroder <hi>dedicated books, the former to</hi> Imperatus, <hi>the later to the Apothecaries of</hi> Francfort; he ſhould have added, they were his Kinſmen, and aſſiſted him in his book; and 'tis apparent that <hi>D. M.</hi> would have given due praiſes to any Apothecary living (if there had been any ſuch) that had contributed but one natural thing to his Pinax.</p>
+            <p>Page 48, 49. Concludes with the opinion of <hi>Renodeus</hi> affirming, that the preſcribing and compounding are to be committed to perſons diſtinctly. <hi>W. C.</hi> But in the place quoted, <hi>Renodeus</hi> doubtleſs ſuppoſed that Apothecaries
+<pb n="10" facs="tcp:47957:7"/> kept themſelves in their own trade, and made their medi<g ref="char:EOLhyphen"/>cines honeſtly, as they did in <hi>England,</hi> when he writ that Treatiſe.</p>
+            <p>From what hath been briefly ſaid, obſerve how little the Apothecaries have to ſay for themſelves, and what material things <hi>I. R.</hi> hath ſpoke to. Obſerve alſo his Mar<g ref="char:EOLhyphen"/>gin, and you will find him paſs over ſeveral pages together of <hi>D.M</hi>'s book, which contains nothing but what is ſub<g ref="char:EOLhyphen"/>ſtantial, and to the purpoſe, not anſwering one argument in the View, only taking occaſion from ſome places to rail at his Perſon and Medicines; beſides of 50 pages in his Pamphlet, there are 17 of them either preliminary, or not to the View, as his Title pretends. Again, take notice how ridiculous his anſwers are, and that moſt that he hath ſaid is not to the purpoſe; And laſtly, that if this modeſt Author ſhall tell ſo many lies, and uſe ſo many ſcandals againſt <hi>D. M.</hi> in Print, what will not he and his Brethren do behind his back?</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:47957:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
